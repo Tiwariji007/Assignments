@@ -1,0 +1,25 @@
+Summary of Model Performance:
+
+Z-score Model Performance:
+Total Profit: 86321.02
+Sharpe Ratio: 27.39
+Maximum Drawdown: -0.076
+
+LSTM Model Performance:
+Total Profit: 202730.34
+Sharpe Ratio: 1.42
+Maximum Drawdown: 2.220
+Analysis and Conclusion:
+
+Total Profit Comparison:
+
+The LSTM Model outperforms the Base Model significantly in terms of total profit.
+Sharpe Ratio Comparison:
+
+The Base Model has a higher Sharpe Ratio, indicating higher risk-adjusted returns.
+Maximum Drawdown Comparison:
+
+The LSTM Model has a higher maximum drawdown, indicating higher risk exposure.
+Conclusion:
+
+Depending on the investor's risk tolerance and investment objectives, they may prefer one model over the other. The Base Model may be suitable for risk-averse investors looking for stable returns, while the LSTM Model may appeal to investors willing to tolerate higher risk for potentially higher rewards.
